@@ -9,7 +9,7 @@ NLP, and intelligent AI workflows.
 I enjoy turning real-world problems into end-to-end AI applications with
 Python, modern LLM technologies, APIs, and scalable backend systems.
 
-🔗 [Portfolio Live](https://portfolioguru-five.vercel.app/) 
+🔗 [Portfolio](https://portfolioguru-five.vercel.app/) 
 ---
 
 ## 🚀 What I Work With
