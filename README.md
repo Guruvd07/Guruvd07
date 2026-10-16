@@ -64,7 +64,7 @@ real-time messaging, and role-based dashboards.
 **Tech:** Generative AI, LLMs, MERN, React.js, Node.js, MongoDB, Socket.IO
 
 🔗 [Live Demo](https://handio-frontend.vercel.app/) |
-[GitHub](https://github.com/Guruvd07/Handio)
+[GitHub](https://github.com/Guruvd07/Handio-backend)
 
 ---
 
